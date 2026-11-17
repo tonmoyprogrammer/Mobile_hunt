@@ -1,0 +1,102 @@
+[
+  {
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-pro-deserttitanium-select?wid=5120&hei=2880&fmt=png-alpha",
+    "id": 1,
+    "model": "iPhone 16 Pro",
+    "brand": "Apple",
+    "price": 155000,
+    "users": 32000,
+    "description": "Premium Apple smartphone with advanced camera and performance.",
+    "features": ["48MP Camera", "A18 Pro Chip", "Titanium Design"]
+  },
+  {
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-ultramarine-select-202409?wid=5120&hei=2880&fmt=png-alpha",
+    "id": 2,
+    "model": "iPhone 16",
+    "brand": "Apple",
+    "price": 105000,
+    "users": 25000,
+    "description": "Modern Apple smartphone with an advanced camera system.",
+    "features": ["48MP Fusion Camera", "A18 Chip", "Dynamic Island"]
+  },
+  {
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-1inch-naturaltitanium?wid=5120&hei=2880&fmt=png-alpha&.v=1692846363993",
+    "id": 3,
+    "model": "iPhone 15 Pro",
+    "brand": "Apple",
+    "price": 125000,
+    "users": 28000,
+    "description": "Powerful Apple smartphone with titanium design.",
+    "features": ["48MP Camera", "A17 Pro Chip", "Titanium Design"]
+  },
+  {
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-7inch-bluetitanium?wid=5120&hei=2880&fmt=png-alpha&.v=1692845699311",
+    "id": 4,
+    "model": "iPhone 15 Pro Max",
+    "brand": "Apple",
+    "price": 145000,
+    "users": 35000,
+    "description": "Large premium Apple smartphone with professional camera features.",
+    "features": ["48MP Camera", "A17 Pro Chip", "5x Optical Zoom"]
+  },
+  {
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-finish-select-202309-6-1inch-blue?wid=5120&hei=2880&fmt=png-alpha&.v=1692923777972",
+    "id": 5,
+    "model": "iPhone 15",
+    "brand": "Apple",
+    "price": 85000,
+    "users": 21000,
+    "description": "Stylish Apple smartphone with USB-C and Dynamic Island.",
+    "features": ["48MP Main Camera", "A16 Bionic Chip", "USB-C"]
+  },
+  {
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-deeppurple?wid=5120&hei=2880&fmt=png-alpha&.v=1671474898960",
+    "id": 6,
+    "model": "iPhone 14 Pro",
+    "brand": "Apple",
+    "price": 95000,
+    "users": 22000,
+    "description": "Flagship smartphone with Dynamic Island and professional camera system.",
+    "features": ["48MP Camera", "A16 Bionic Chip", "Dynamic Island"]
+  },
+  {
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-7inch-deeppurple?wid=5120&hei=2880&fmt=png-alpha&.v=1663703841896",
+    "id": 7,
+    "model": "iPhone 14 Pro Max",
+    "brand": "Apple",
+    "price": 110000,
+    "users": 24000,
+    "description": "Large flagship smartphone with a professional camera system.",
+    "features": ["48MP Camera", "A16 Bionic Chip", "6.7-inch Display"]
+  },
+  {
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-blue?wid=5120&hei=2880&fmt=png-alpha&.v=1661026582322",
+    "id": 8,
+    "model": "iPhone 14",
+    "brand": "Apple",
+    "price": 70000,
+    "users": 17000,
+    "description": "Reliable Apple smartphone with a dual-camera system.",
+    "features": ["12MP Dual Camera", "A15 Bionic Chip", "OLED Display"]
+  },
+  {
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-blue-select?wid=940&hei=1112&fmt=png-alpha",
+    "id": 9,
+    "model": "iPhone 13 Pro",
+    "brand": "Apple",
+    "price": 75000,
+    "users": 18000,
+    "description": "Premium smartphone with ProMotion display and triple camera.",
+    "features": ["12MP Triple Camera", "A15 Bionic Chip", "120Hz Display"]
+  },
+  {
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-finish-select-202207-6-1inch-blue?wid=5120&hei=2880&fmt=png-alpha&.v=1656712888128",
+    "id": 10,
+    "model": "iPhone 13",
+    "brand": "Apple",
+    "price": 55000,
+    "users": 15000,
+    "description": "Popular Apple smartphone with OLED display and dual cameras.",
+    "features": ["12MP Dual Camera", "A15 Bionic Chip", "OLED Display"]
+  }
+]
